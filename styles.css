@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+/* Main container for the testimonial section */
+.testimonial-section {
+    padding: 40px;
+    background-color: #f5f5f5; /* Light gray background */
+    max-width: 800px;
+    margin: 0 auto; /* Center the section */
+}
+
+/* Individual testimonial box styling */
+.testimonial {
+    padding: 20px;
+    background-color: #ffffff; /* White background for testimonial box */
+    border: 1px solid #ddd; /* Light border */
+    margin-bottom: 20px;
+    border-radius: 5px; /* Rounded corners */
+}
+
+/* Styling for the testimonial text */
+.testimonial-text {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333; /* Dark text color */
+    margin: 0 0 10px 0;
+}
+
+/* Styling for the author's name */
+.testimonial-author {
+    text-align: right;
+    font-style: italic; /* Italic font */
+    color: #555; /* Slightly lighter text color */
+}
+
